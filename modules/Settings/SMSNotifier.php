@@ -8,18 +8,18 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'LBL_ADD_RECORD'               => 'New Configuration'           , // TODO: Review
-	'SMSNotifier'                  => 'SMS Provider Configuration'  , // TODO: Review
-	'LBL_ADD_CONFIGURATION'        => 'New Configuration'           , // TODO: Review
-	'LBL_EDIT_CONFIGURATION'       => 'Edit Configuration'          , // TODO: Review
-	'LBL_SELECT_ONE'               => 'Select One'                  , // TODO: Review
+	'LBL_ADD_RECORD'               => 'Nuova Configurazione'           , // TODO: Review
+	'SMSNotifier'                  => 'Configurazione del Provider degli SMS'  , // TODO: Review
+	'LBL_ADD_CONFIGURATION'        => 'Nuova Configurazion'           , // TODO: Review
+	'LBL_EDIT_CONFIGURATION'       => 'modifica Configurazione'          , // TODO: Review
+	'LBL_SELECT_ONE'               => 'Seleziona Uno'                  , // TODO: Review
 	'providertype'                 => 'Provider'                    , // TODO: Review
-	'isactive'                     => 'Active'                      , // TODO: Review
+	'isactive'                     => 'Attivo'                      , // TODO: Review
 	'username'                     => 'User Name'                   , // TODO: Review
 	'password'                     => 'Password'                    , // TODO: Review
 );
 $jsLanguageStrings = array(
-	'LBL_DELETE_CONFIRMATION'      => 'Are you sure, you want to delete this SMSNotifier Configuration', // TODO: Review
-	'JS_RECORD_DELETED_SUCCESSFULLY' => 'SMS Provider Deleted Successfully', // TODO: Review
-	'JS_CONFIGURATION_SAVED'       => 'SMS Provider Configurations saved', // TODO: Review
+	'LBL_DELETE_CONFIRMATION'      => 'Sei sicuro di voler cancellare questa configurazione delle notifiche degli SMS', // TODO: Review
+	'JS_RECORD_DELETED_SUCCESSFULLY' => 'Provider degli SMS cancellato con successo', // TODO: Review
+	'JS_CONFIGURATION_SAVED'       => 'Configurazione del Provider degli SMS salvata', // TODO: Review
 );
