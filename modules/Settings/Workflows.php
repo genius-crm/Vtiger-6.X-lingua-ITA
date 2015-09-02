@@ -77,7 +77,7 @@ $languageStrings = array(
 	'LBL_EXPRESSION_EXAMPLE2'      => 'se stato spedizione == \'India\' allora concatena(nome,\' \',cognome) altrimenti concatena (cognome,\' \',nome) fine', // TODO: Review
 	'LBL_FROM' => 'Da',
 	'Optional' => 'Opzionale',
-	'LBL_ADD_TASK' => 'Add Compito',	
+	'LBL_ADD_TASK' => 'Aggiungi Azione',	
         'Portal Pdf Url' =>'Customer Portal collegamento Pdf',
         'LBL_ADD_TEMPLATE' => 'Aggiungi modello',
         'LBL_LINEITEM_BLOCK_GROUP' => 'Blocco LineItems per IVA di gruppo',
@@ -104,8 +104,8 @@ $languageStrings = array(
 	'Calendar' => 'Da fare',
 );
 $jsLanguageStrings = array(
-	'JS_STATUS_CHANGED_SUCCESSFULLY' => 'Status changed Successfully' , // TODO: Review
-	'JS_TASK_DELETED_SUCCESSFULLY' => 'Task deleted Successfully'   , // TODO: Review
-	'JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE' => 'Same fields selected more than once', // TODO: Review
-	'JS_WORKFLOW_SAVED_SUCCESSFULLY' => 'Workflow saved successfully' , // TODO: Review
+	'JS_STATUS_CHANGED_SUCCESSFULLY' => 'Stato cambiato con successo' , // TODO: Review
+	'JS_TASK_DELETED_SUCCESSFULLY' => 'Azione cancellata con successo'   , // TODO: Review
+	'JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE' => 'Gli stessi campi selezionati più di una volta', // TODO: Review
+	'JS_WORKFLOW_SAVED_SUCCESSFULLY' => 'Workflow salvato con successo' , // TODO: Review
 );
