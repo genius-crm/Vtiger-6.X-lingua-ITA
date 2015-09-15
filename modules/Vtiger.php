@@ -779,7 +779,7 @@ $jsLanguageStrings = array(
 	'LBL_SIGN_IN_AS_USER'=>'Collegarti con un altro utente terminer&agrave; la sessione corrente. Sicuro di voler continuare?',
         'JS_LBL_NO_TAXES'=>'Nessuna tassa', 
 
-        'JS_CONFIRM_MARK_AS_HELD' => 'Sicuro di voler marcarlo come completato?',
+        'JS_CONFIRM_MARK_AS_HELD' => 'Sicuro di volere marcarlo come completato?',
         'JS_EVENT_MARKED_AS_HELD' => 'Evento completato',
         'JS_TODO_MARKED_AS_COMPLETED' => 'Compito completato',
 
