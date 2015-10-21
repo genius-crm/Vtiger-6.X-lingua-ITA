@@ -78,7 +78,7 @@ $languageStrings = array(
 	'LBL_RECORDS'                  => 'Elementi'                      ,
 	'LBL_REPORT_CSV'               => 'Esporta CSV',
 	'LBL_REPORT_DELETE_DENIED'     => 'Permesso di cancellazione report negato', 
-	'LBL_REPORT_DETAILS'           => 'Report tabellare'             , 
+	'LBL_REPORT_DETAILS'           => 'Dettagli report'             , 
 	'LBL_REPORT_EXPORT_EXCEL'      => 'Esporta in excel'            , 
 	'LBL_REPORT_FOLDER'            => 'Cartella report'             , 
 	'LBL_REPORT_NAME'              => 'Nome report'                 , 
@@ -159,7 +159,7 @@ $languageStrings = array(
 	'LBL_MODIFY_CONDITION' => 'Modifica condizioni',
 	'LBL_PLEASE_SELECT_ATLEAST_ONE_GROUP_FIELD_AND_DATA_FIELD' => 'Seleziona almeno un gruppo per campo e un campo data.',
 	'LBL_FOR_BAR_GRAPH_AND_LINE_GRAPH_SELECT_3_MAX_DATA_FIELDS' => 'Per grafici a linea o barre, puoi selezionare un massimo di 3 campi.',
-	'LBL_DETAIL_REPORT' => 'Dettagli report',
+	'LBL_DETAIL_REPORT' => 'Report tabellare',
 	'LBL_PIVOT_REPORT' => 'Report Pivot',
 	'LBL_CHARTS' => 'Grafico',
     //Schedule Reports - Mail Content
