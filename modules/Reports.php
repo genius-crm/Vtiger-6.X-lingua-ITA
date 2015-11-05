@@ -140,7 +140,7 @@ $languageStrings = array(
 
 	//charts labels
 	'LBL_SELECT_CHART_TYPE' => 'Seleziona tipo di grafico',
-	'LBL_CLICK_THROUGH_NOT_AVAILABLE' => 'Click non disponibile in quanto hai selezionato più di un modulo',
+	'LBL_CLICK_THROUGH_NOT_AVAILABLE' => 'Click non disponibile in quanto hai selezionato pi&ugrave; di un modulo',
 	'LBL_TOTAL_SUM_OF' => 'Somma totale di %s',
 	'LBL_AVG_OF' => 'Media di %s',
 	'LBL_MIN_OF' => 'Minimo di %s',
@@ -163,7 +163,7 @@ $languageStrings = array(
 	'LBL_PIVOT_REPORT' => 'Report Pivot',
 	'LBL_CHARTS' => 'Grafico',
     //Schedule Reports - Mail Content
-    'LBL_AUTO_GENERATED_REPORT_EMAIL'  => 'Questa è una email autogenerata inviate per un report programmato.',
+    'LBL_AUTO_GENERATED_REPORT_EMAIL'  => 'Questa &egrave; una email autogenerata inviate per un report programmato.',
 	'LBL_STEP_1'                   => 'Step 1'                      ,
 	'LBL_STEP_2'                   => 'Step 2'                      ,
 	'LBL_STEP_3'                   => 'Step 3'                      ,

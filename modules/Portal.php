@@ -8,7 +8,7 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'HTTP_ERROR' => 'Il sito che stai provando ad aprire non è sicuro e non dovrebbe essere aperto. Se vuoi comunque vedere questa pagina puoi cliccare sul contenuto bloccato nella barra degli indirizzi e sbloccarlo.',
+	'HTTP_ERROR' => 'Il sito che stai provando ad aprire non &egrave; sicuro e non dovrebbe essere aperto. Se vuoi comunque vedere questa pagina puoi cliccare sul contenuto bloccato nella barra degli indirizzi e sbloccarlo.',
 	'LBL_ADD_BOOKMARK' => 'Aggiungi Bookmark',
 	'LBL_ADD_NEW_BOOKMARK' => 'Aggiungi nuovo Bookmark',
 	'LBL_BOOKMARK' => 'Bookmark',

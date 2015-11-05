@@ -21,7 +21,7 @@ $languageStrings = array(
 	'LBL_CONFIGURE_DEPENDENCY_HELP_3' => 'I valori selezionati dai valori del campo obiettivo, sono evidenziati come', // TODO: Review
 	'LBL_SELECT_SOURCE_VALUES'     => 'Seleziona valori fonte'        , // TODO: Review
 	'LBL_SELECT_SOURCE_PICKLIST_VALUES' => 'Seleziona valori dal menu a tendina fonte', // TODO: Review
-	'LBL_ERR_CYCLIC_DEPENDENCY'    => 'Questa dipendenza impostata non è permessa siccome finisce in un ciclo di dipendenze', // TODO: Review
+	'LBL_ERR_CYCLIC_DEPENDENCY'    => 'Questa dipendenza impostata non &egrave; permessa siccome finisce in un ciclo di dipendenze', // TODO: Review
 );
 $jsLanguageStrings = array(
 	'JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE' => 'Are you sure you want to delete this picklist dependency?', // TODO: Review

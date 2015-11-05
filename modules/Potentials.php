@@ -45,5 +45,5 @@ $languageStrings = array(
 	'Value Proposition'            => 'Proposto valore',
 	
 	//
-	'Potentials Won'               => 'Opportunità vinte'   , 
+	'Potentials Won'               => 'Opportunit&agrave; vinte'   , 
 );

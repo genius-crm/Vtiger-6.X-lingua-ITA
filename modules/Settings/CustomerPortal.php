@@ -18,7 +18,7 @@ $languageStrings = array(
 	'LBL_VIEW_ALL_RECORDS'         => 'Visualizza tutti i record'   ,
 	'LBL_PREVILEGES_MESSAGE'       => 'I privilegi utente saranno applicati al portale clienti.', 
 	'LBL_DEFAULT_ASSIGNEE_MESSAGE' => 'I ticket saranno assegnati a un utente scelto tra quelli abilitati sul portale clienti.', 
-	'LBL_PORTAL_URL_MESSAGE'       => 'Questo è l\'indirizzo dove i tuoi contatti possono accedere per aprire ticket, accedere alle FAQ e molto altro. I contatti riceveranno le credenziali di accesso al portale clienti flaggando il campo Utente Portale.',
+	'LBL_PORTAL_URL_MESSAGE'       => 'Questo &egrave; l\'indirizzo dove i tuoi contatti possono accedere per aprire ticket, accedere alle FAQ e molto altro. I contatti riceveranno le credenziali di accesso al portale clienti flaggando il campo Utente Portale.',
 	'LBL_DRAG_AND_DROP_MESSAGE'    => 'Trascina i moduli per riordinarli sul portale clienti', 
 );
 $jsLanguageStrings = array(

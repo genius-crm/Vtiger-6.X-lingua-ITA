@@ -8,7 +8,7 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'LBL_ADD_MORE_FIELDS'          => 'Aggiungi più campi'                 ,
+	'LBL_ADD_MORE_FIELDS'          => 'Aggiungi pi&ugrave; campi'                 ,
 	'LBL_CHECK_STATUS'             => 'Controlla stato'                    ,
 	'LBL_SELECT_THE_PHONE_NUMBER_FIELDS_TO_SEND' => 'Seleziona i campi numero di telefono per inviare',
 	'LBL_SEND_SMS_TO_SELECTED_NUMBERS' => 'Manda SMS ai numeri selezionati',

@@ -17,7 +17,7 @@ $languageStrings = array(
 	'LBL_MAPPING_WITH_OTHER_MODULES' => 'Mappatura altri moduli'    ,
 	'LBL_ORGANIZATIONS'            => 'Aziende'                     , 
 	'LBL_CONTACTS'                 => 'Contatti'                    , 
-	'LBL_OPPURTUNITIES'            => 'Opportunità'                 , 
+	'LBL_OPPURTUNITIES'            => 'Opportunit&agrave;'                 , 
 	'LBL_ADD_MAPPING'              => 'Aggiungi mappatura'          , 
 	'LBL_NONE'                     => 'Nessuno'                     , 
 	'phone'                        => 'Telefono'                    , 
@@ -38,7 +38,7 @@ $languageStrings = array(
 );
 $jsLanguageStrings = array(
 	'JS_NONE'                      => 'Nessuno'                     ,
-	'JS_IS_ALREADY_BEEN_MAPPED'    => 'Già mappato'                 ,
+	'JS_IS_ALREADY_BEEN_MAPPED'    => 'Gi&agrave; mappato'                 ,
 	'JS_CANT_MAP'                  => 'Non posso mappare'           ,
 	'JS_WITH'                      => 'con'                         ,
 	'JS_MAPPING_DELETED_SUCCESSFULLY' => 'Mappatura cancellata con successo',
