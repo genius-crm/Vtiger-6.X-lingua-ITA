@@ -20,7 +20,7 @@ $languageStrings = array(
 	'Service Contracts' 	       => 'Contratti di servizio'	,
 	'SINGLE_ServiceContracts'      => 'Contratto di servizio'       , 
 	'Start Date'                   => 'Data inizio'                  , 
-	'Total Units'                  => 'Unità totali'                , 
-	'Tracking Unit'                => 'Unità di misura'             , 
-	'Used Units'                   => 'Unità utilizzate'            , 
+	'Total Units'                  => 'Unit&agrave; totali'                , 
+	'Tracking Unit'                => 'Unit&agrave; di misura'             , 
+	'Used Units'                   => 'Unit&agrave; utilizzate'            , 
 );

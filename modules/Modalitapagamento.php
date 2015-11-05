@@ -9,15 +9,15 @@
  * *******************************************************************************+ */
 $languageStrings = array(
 	// Basic Strings
-	'SINGLE_Modalitapagamento'     		=> 'Modalità di pagamento'             		, 
-	'LBL_ADD_RECORD'            		=> 'Aggiungi modalità di pagamento'   		, 
-	'LBL_RECORDS_LIST'             		=> 'Lista modalità di pagamento'    		, 
-	'pagamento_no'                     	=> 'Codice modalità di pagamento'		, 	
-	'Modalitapagamento'                    	=> 'Modalità di pagamento'     			, 	
-	'LBL_MODALITA_PAGAMENTO'                => 'Dettagli modalità di pagamento' 		, 	
-	'LBL_MODALITAPAGAMENTO_INFORMATION'     => 'Informazioni modalità di pagamento' 	, 
-	'LBL_ATTIVA'     			=> 'Modalità attiva'		 		, 
-	'All'		     			=> 'Tutte le'					, 
+	'SINGLE_Modalitapagamento'     		=> 'Modalit&agrave; di pagamento'             	,
+	'LBL_ADD_RECORD'            		=> 'Aggiungi modalit&agrave; di pagamento'   	,
+	'LBL_RECORDS_LIST'             		=> 'Lista modalit&agrave; di pagamento'    		,
+	'pagamento_no'                     	=> 'Codice modalit&agrave; di pagamento'		,
+	'Modalitapagamento'                 => 'Modalit&agrave; di pagamento'     			,
+	'LBL_MODALITA_PAGAMENTO'            => 'Dettagli modalit&agrave; di pagamento' 		,
+	'LBL_MODALITAPAGAMENTO_INFORMATION' => 'Informazioni modalit&agrave; di pagamento' 	,
+	'LBL_ATTIVA'     			        => 'Modalit&agrave; attiva'		 		        ,
+	'All'		     			        => 'Tutte le'					                ,
 );
 $jsLanguageStrings = array(
 );

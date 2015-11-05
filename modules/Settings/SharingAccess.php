@@ -32,5 +32,5 @@ $jsLanguageStrings = array(
 	'JS_CUSTOM_RULE_SAVED_SUCCESSFULLY' => 'Regola di Condivisione personalizzata salvata con successo', // TODO: Review
 	'JS_SELECT_ANY_OTHER_ACCESSING_USER' => 'Seleziona un\'altro utente con accesso', // TODO: Review
 	'JS_NEW_SHARING_RULES_APPLIED_SUCCESSFULLY' => 'Nuova Regola di Condivisione applicata con successo', // TODO: Review
-	'JS_DEPENDENT_PRIVILEGES_SHOULD_CHANGE' => 'Opportunità, Tickets, Preventivi, Ordini di Vendita & Fatture devono essere impostate su Privato quando l\'accesso alla Organizzazione è impostato su privato', // TODO: Review
+	'JS_DEPENDENT_PRIVILEGES_SHOULD_CHANGE' => 'Opportunit&agrave;, Tickets, Preventivi, Ordini di Vendita & Fatture devono essere impostate su Privato quando l\'accesso alla Organizzazione &egrave; impostato su privato', // TODO: Review
 );

@@ -42,12 +42,12 @@ $languageStrings = array(
 	'LBL_REMOVE_INFO'              => 'Fare click sul icona del Chiudi per togliere il modulo dalla lista', // TODO: Review
 	'LBL_ADD_MODULE_INFO'          => 'Seleziona il modulo dai moduli tolti per aggiungerlo nuovamente alla lista', // TODO: Review
 	'LBL_SELECT_MODULE'            => 'Seleziona Modulo..'             , // TODO: Review
-	'LBL_DUPLICATES_EXIST'         => 'Nome Blocco già Esiste'   , // TODO: Review
+	'LBL_DUPLICATES_EXIST'         => 'Nome Blocco gi&agrave; Esiste'   , // TODO: Review
 	'LBL_NON_ROLE_BASED_PICKLIST'  => 'Menu a Tendina non Basata sui Ruoli'     , // TODO: Review
 	'LBL_DUPLICATE_FIELD_EXISTS'   => 'Esiste Campo Duplicato'      , // TODO: Review
 	'LBL_WRONG_FIELD_TYPE'         => 'Tipo del Campo Sbagliato'            , // TODO: Review
 	'LBL_ROLE_BASED_PICKLIST'      => 'Menu a Tendina Basata sui Ruoli'         , // TODO: Review
-	'LBL_CLICK_HERE_TO_EDIT' => 'Fare Click quì per Modificare',
+	'LBL_CLICK_HERE_TO_EDIT' => 'Fare Click qui per Modificare',
 
 	//Field Types
 	'Text'=>'Testo',
@@ -67,8 +67,8 @@ $languageStrings = array(
 	'Time'=>'Tempo',
 );
 $jsLanguageStrings = array(
-	'JS_BLOCK_VISIBILITY_SHOW'     => 'Mostra Blocco è Abilitato'          , // TODO: Review
-	'JS_BLOCK_VISIBILITY_HIDE'     => 'Nascondi Blocco è Abilitato'          , // TODO: Review
+	'JS_BLOCK_VISIBILITY_SHOW'     => 'Mostra Blocco &egrave; Abilitato'          , // TODO: Review
+	'JS_BLOCK_VISIBILITY_HIDE'     => 'Nascondi Blocco &egrave; Abilitato'          , // TODO: Review
 	'JS_CUSTOM_BLOCK_ADDED'        => 'nuovo Blocco Personalizzato Aggiunto'      , // TODO: Review
 	'JS_BLOCK_SEQUENCE_UPDATED'    => 'Sequenza Blocco Aggiornata'     , // TODO: Review
 	'JS_SELECTED_FIELDS_REACTIVATED' => 'Campi Selezionati Riattivati ' , // TODO: Review
@@ -80,7 +80,7 @@ $jsLanguageStrings = array(
 	'JS_PLEASE_ENTER_NUMBER_IN_RANGE_2TO5' => 'I Decimali devono essere nel intervallo 2 a 5', // TODO: Review
 	'JS_SAVE_THE_CHANGES_TO_UPDATE_FIELD_SEQUENCE' => 'Salva i Cambiamenti del Aggiornamento Sequenza Campi', // TODO: Review
 	'JS_RELATED_INFO_SAVED'        => 'Informazioni Relazionate Salvate'          , // TODO: Review
-	'JS_BLOCK_NAME_EXISTS'         => 'Nome Blocco già Esiste'   , // TODO: Review
+	'JS_BLOCK_NAME_EXISTS'         => 'Nome Blocco gi&agrave; Esiste'   , // TODO: Review
 	'JS_NO_HIDDEN_FIELDS_EXISTS'   => 'Nessun Campo Inattivo'          , // TODO: Review
 	'JS_SPECIAL_CHARACTERS'        => 'Caratteri Speciali come'     , // TODO: Review
 	'JS_NOT_ALLOWED'               => 'non sono permessi'             , // TODO: Review

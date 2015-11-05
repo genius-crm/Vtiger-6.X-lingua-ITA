@@ -9,7 +9,7 @@
  ************************************************************************************/
 
 $languageStrings = Array (
-	'JSLBL_Body_Cannot_Be_Empty' => 'Il corpo del messaggio non può essere vuoto',
+	'JSLBL_Body_Cannot_Be_Empty' => 'Il corpo del messaggio non pu&ograve; essere vuoto',
 	'LBL_10_MIN' => '10 Minuti',
 	'LBL_5_MIN' => '5 Minuti',
 	'LBL_Account_Password'     => 'Password dell\' Account',
@@ -58,7 +58,7 @@ $languageStrings = Array (
 	'LBL_Mail_Server'     => 'Nome Mail Server o IP',
 	'LBL_Mark_As_Unread'  => 'Segna come non letto',
 	'LBL_MODULE_DENIED' => 'Modulo negato!',
-	'LBL_MODULE_DESCRIPTION' => "Il gestore email è un client integrato che permette agli utenti di fare azioni sulle email in arrivo. 	Ti permette di creare lead, contatti, organizzazioni, ticket e compiti dalle email che ricevi nel tuo inbox. Quando chi invia l'email coincide con un record di vtiger, potrai fare ulteriori azioni come allegare l'email, aggiungere compiti, commenti e ticket. Inoltre, potrai comporre, rispondere ed inoltrare le email.",
+	'LBL_MODULE_DESCRIPTION' => 'Il gestore email &egrave un client integrato che permette agli utenti di fare azioni sulle email in arrivo. 	Ti permette di creare lead, contatti, organizzazioni, ticket e compiti dalle email che ricevi nel tuo inbox. Quando chi invia l'email coincide con un record di vtiger, potrai fare ulteriori azioni come allegare l'email, aggiungere compiti, commenti e ticket. Inoltre, potrai comporre, rispondere ed inoltrare le email.',
 	'LBL_MOVE_TO'=>'Sposta...',
 	'LBL_Newer'           => 'Recenti',
 	'LBL_Next'            => 'successivo',
@@ -107,8 +107,8 @@ $languageStrings = Array (
 );
 
 $jsLanguageStrings = Array (
-	'JS_FUTURE_EVENT_CANNOT_BE_HELD' => 'Non può essere tenuta per il futuro',
-	'JSLBL_ACCOUNTNAME_CANNOT_EMPTY'=>'Nome Account non può essere vuoto',
+	'JS_FUTURE_EVENT_CANNOT_BE_HELD' => 'Non pu&ograve; essere tenuta per il futuro',
+	'JSLBL_ACCOUNTNAME_CANNOT_EMPTY'=>'Nome Account non pu&ograve; essere vuoto',
 	'JSLBL_ADD_COMMENT'=>'Aggiungi commento',
 	'JSLBL_Associating'          => 'Associazione',
 	'JSLBL_ATTACHMENT_NOT_DELETED'	=>	"Allegato non cancellabile" ,
@@ -149,7 +149,7 @@ $jsLanguageStrings = Array (
 	'JSLBL_PLEASE_SELECT_ATLEAST_ONE_MAIL'=>'Seleziona almeno una mail',
 	'JSLBL_PLEASE_SELECT_ATLEAST_ONE_RECORD'=>'Seleziona almeno un record',
 	'JSLBL_Receipents_Warning_Message'=>'Si prega di selezionare i destinatari',
-	'JSLBL_Recepient_Cannot_Be_Empty' => 'Destinatario non può essere vuoto',
+	'JSLBL_Recepient_Cannot_Be_Empty' => 'Destinatario non pu&ograve; essere vuoto',
 	'JSLBL_Removing'                  => 'Rimozione',
 	'JSLBL_Replied'              => 'Replica',
 	'JSLBL_SaveWith_EmptySubject'=>'Salvare con Oggetto vuoto?',
@@ -159,9 +159,9 @@ $jsLanguageStrings = Array (
 	'JSLBL_Searching_Please_Wait'=> 'Ricerca in corso',
 	'JSLBL_Searching'            => 'Ricerca',
 	'JSLBL_Sending'              => 'Invio',
-	'JSLBL_SERVERNAME_CANNOT_BE_EMPTY'=>'Il Nome del Server non può essere vuoto',
+	'JSLBL_SERVERNAME_CANNOT_BE_EMPTY'=>'Il Nome del Server non pu&ograve; essere vuoto',
 	'JSLBL_Settings'             => 'Impostazioni',
-	'JSLBL_Subject_Cannot_Be_Empty'     => 'L\'oggetto non può essere vuoto',
+	'JSLBL_Subject_Cannot_Be_Empty'     => 'L\'oggetto non pu&ograve; essere vuoto',
 	'JSLBL_SUBJECT'=>'Oggetto: ',
 	'JSLBL_TO'=>'A: ',
 	'JSLBL_Updating'             => 'Aggiornamento',
@@ -170,7 +170,7 @@ $jsLanguageStrings = Array (
 	'JSLBL_UPLOAD_DROPFILES'=>'Trascina i file qui per caricarli',
 	'JSLBL_UPLOAD_FAILED'=>'Non riuscito',
 	'JSLBL_UPLOAD_FILE'=>'Carica',
-	'JSLBL_USERNAME_CANNOT_BE_EMPTY'=>'Il Nome dell utente non può essere vuoto',
+	'JSLBL_USERNAME_CANNOT_BE_EMPTY'=>'Il Nome dell utente non pu&ograve; essere vuoto',
     'JSLBL_Yahoo'=>'Yahoo',
 	'MailManager' => 'Gestione posta',
 );
