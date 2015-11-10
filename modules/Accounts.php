@@ -40,10 +40,6 @@ $languageStrings = array(
 	'SINGLE_Accounts'              => 'Organizzazione'              , 
 	'Ticker Symbol'                => 'Simbolo ticker'              , 
 	'Website'                      => 'Sito web'                    , 
-	
-	//
-	'New This Week'                => 'Di questa settimana'         , 
-	'Prospect Accounts'            => 'Prospetti'                   , 	
 );
 
 $jsLanguageStrings = array(
