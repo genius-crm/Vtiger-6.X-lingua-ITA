@@ -122,7 +122,6 @@ $jsLanguageStrings = array(
 	'LBL_MARCH' => 'Marzo',
 	'LBL_MAR' => 'Mar',
 	'LBL_MAY' => 'Maggio',
-	'LBL_MAY' => 'Mag',
 	'LBL_MONDAY' => 'Luned&igrave;',
 	'LBL_MON' => 'Lun',
 	'LBL_MONTH' => 'Mese',

@@ -21,8 +21,7 @@ $languageStrings = array(
 	'PA'                           => 'Eventi pendenti'              , 
 	'PLVT'                         => 'Migliori opportunit&agrave;'  , 
 	'QLTQ'                         => 'Migliori preventivi'          , 
-	'UA'                           => 'Prossimi eventi'              , 
-        'Home'                         => 'Homepage'                     ,
-        'Key Metrics'                  => 'Metriche chiave',
+	'UA'                           => 'Prossimi eventi'              ,
+	'Key Metrics'                  => 'Metriche chiave',
 	'Tag Cloud'                    => 'Tag Cloud',
 );
