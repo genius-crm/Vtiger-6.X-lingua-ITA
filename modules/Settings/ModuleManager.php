@@ -29,7 +29,6 @@ $languageStrings = array(
 	'LBL_INSTALLATION_LOG'         => 'Log della installazione'            , // TODO: Review
 
         //Extension Store translations
-        'LBL_VTIGER_EXTENSION_STORE' => 'Vtiger Marketplace',
         'LBL_SEARCH_FOR_EXTENSION'  => 'Cerca Estensione',
         'LBL_DOWNLOADS' => 'Download',
         'LBL_NO_EXTENSIONS_FOUND' => 'Nessune Estensione trovata',

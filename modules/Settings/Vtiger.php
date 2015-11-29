@@ -186,11 +186,9 @@ $languageStrings = array(
 	'LoginHistory' => 'Cronologia del Login degli Utenti',
 	'LBL_LOGIN_HISTORY_DETAILS' => 'Cronologia del Login',
 	'LBL_LOGIN_HISTORY_DESCRIPTION' => 'Dettagli Cronologia del Login',
-	'LBL_USER_NAME'=> 'User Name',
-	'LBL_USER_IP_ADDRESS'=> 'Indirizzo IP del utente', 
+	'LBL_USER_IP_ADDRESS'=> 'Indirizzo IP del utente',
 	'LBL_LOGIN_TIME' => 'Tempo della entrata',
-	'LBL_LOGGED_OUT_TIME' => 'Tempo della uscita', 
-	'LBL_STATUS' => 'Stato'
+	'LBL_LOGGED_OUT_TIME' => 'Tempo della uscita',
 );
 $jsLanguageStrings = array(
 	'JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP' => 'Si prega di selezionare almeno un utente per ogni gruppo', // TODO: Review
