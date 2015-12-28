@@ -41,6 +41,8 @@ $languageStrings = array(
 	'Target End Date'              => 'Data finale prevista'        , 
 
 	'Related to'                   => 'Relazionato a'        , 
+	'description'                  => 'Descrizione'          ,
+
 	
 	//picklist values
 	'prospecting' => 'In valutazione',
