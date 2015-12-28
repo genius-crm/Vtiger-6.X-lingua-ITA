@@ -8,7 +8,7 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'Actual Duration'              => 'Durata attuale (in gg.)'     , 
+	'Actual Duration'              => 'Durata reale (in gg.)'     , 
 	'Contract No'                  => 'Numero contratto'            , 
 	'End Date'                     => 'Data fine'                   , 
 	'LBL_ADD_RECORD'               => 'Aggiungi contratto di servizio' , 
@@ -22,5 +22,7 @@ $languageStrings = array(
 	'Start Date'                   => 'Data inizio'                  , 
 	'Total Units'                  => 'Unit&agrave; totali'                , 
 	'Tracking Unit'                => 'Unit&agrave; di misura'             , 
-	'Used Units'                   => 'Unit&agrave; utilizzate'            , 
+	'Used Units'                   => 'Unit&agrave; utilizzate'            ,
+	'Related to'                   => 'Relazionato a',
+	'Due date'                     => 'Data scadenza',
 );
